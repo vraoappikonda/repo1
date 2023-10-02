@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/repo1/clientlibs"/>
+    <filter root="/apps/repo1/components"/>
+    <filter root="/apps/repo1/i18n"/>
+    <filter root="/apps/sling" />
+    <filter root="/apps/msm/repo1_blueprint" mode="merge"/>
+</workspaceFilter>
